@@ -8,7 +8,7 @@ The instructions here are for new members to get familar with group coding style
 2. Learn to use Github:
 - Turn on your github account's email notification. Click your personal account on the top right corner -> Settings -> Notifications -> Turn on your emails for `Watching` and `Participating, @mentions and custom`.
 - Set up the private and public ssh keys for your github account. See [instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
-- Fork this group by clicking on the top right corner on the github web of this repo.
+- Fork this `onboard_checklist` repo by clicking on the top right corner on the github web of this repo.
 - SSH `git clone` your forked repo to your local computer.
 - Create a new branch of your repo `git checkout -b [your_name]`, usually the branch name refers to the issues or problems to be solved. Here as a tutorial, use your name as the branch name.
 - Add the group main repo into your repo setting by `git remote add remote git@github.com:yanglonggroup/onboard_checklist.git`.
